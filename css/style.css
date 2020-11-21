@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'DM Serif Display', serif;
+}
+
+h1, h2, h3 {
+	ffont-family: 'Special Elite', cursive;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
